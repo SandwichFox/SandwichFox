@@ -7,9 +7,8 @@
 Hi 👋, Ich bin [SandwichFox](https://sandwichfox.carrd.co/)
 
 </h1> 
-<h3 align="center">Ich bin eurer cuter Coding Fuchs aus der Nachbarschaft</h3>
+<p align="center">Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft</p>
 
 
 
-<h1>
 
