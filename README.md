@@ -7,7 +7,7 @@
 Hey, ich bin [SandwichFox](https://sandwichfox.carrd.co/) 👋
 
 </h3>
-<h2>
+<h2 align="center">
 
 Ich bin ein Wannabe Full-Stack-Entwickler 💻 und Gamer 🎮
 
@@ -16,11 +16,7 @@ Ich bin ein Wannabe Full-Stack-Entwickler 💻 und Gamer 🎮
 Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch viel Spaß auf meiner GitHub Page ❤️
 
 
-<font size="3">
-
 ### 🤝 Connect with me:
-
-</font>
 
 
 
