@@ -2,14 +2,27 @@
 <img src="https://user-images.githubusercontent.com/61992162/144202287-3c1d025c-3786-487b-b60f-609ed61cde6d.png" alt="profile banner">
 </p>
 
-<h1 align="center">
+<h3 align="center">
 
 Hey, ich bin [SandwichFox](https://sandwichfox.carrd.co/) 👋
 
+</h3>
+<h2>
+
 Ich bin ein Wannabe Full-Stack-Entwickler 💻 und Gamer 🎮
 
-</h1> 
-<p align="center">Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft</p>
+</h2> 
+
+Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch viel Spaß auf meiner GitHub Page ❤️
+
+
+<font size="3">
+
+### 🤝 Connect with me:
+
+</font>
+
+
 
 <h1></h1>
 
