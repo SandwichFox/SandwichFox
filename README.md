@@ -16,7 +16,7 @@ Ich bin ein Wannabe Full-Stack-Entwickler 💻 und Gamer 🎮
 Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch viel Spaß auf meiner GitHub Page ❤️
 
 
-## 🤝 Connect with me:
+## 🤝 Hier könnt ihr mich kontaktieren:
 
 <p align="left">
 <a href="https://twitter.com/sandwichfoxyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandwichfoxyt" height="30" width="40" /></a>
