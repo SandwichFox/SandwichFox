@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-Hey, ich bin [SandwichFox](https://sandwichfox.carrd.co/) 👋
+Hey, ich bin [SandwichFox](https://sandwichfox.me/) 👋
 
 </h3>
 <h2 align="center">
