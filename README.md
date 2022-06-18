@@ -74,4 +74,4 @@ Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch vi
 
 [![SandwichFox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandwichfox&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandwichfox&layout=compact&theme=dark)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandwichfox&layout=compact&theme=dark)]
