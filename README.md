@@ -72,6 +72,6 @@ Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch vi
 
 ## GitHub Statistiken
 
-[![SandwichFox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandwichfox&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![SandwichFox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandwichfox&show_icons=true&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandwichfox&layout=compact&theme=dark)](https://github.com/SandwichFox)
