@@ -33,9 +33,9 @@ Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch vi
 
 ## 🌱 Ich lerne gerade
 
-- Lua
+- ~~Lua~~
 - HTML + CSS
-- Latex
+- ~~Latex~~
 
 ## 💼 Technical Skills
 
