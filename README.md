@@ -29,7 +29,7 @@ Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch vi
 - 💬 Bei Fragen/Feedback könnt ihr mich gerne anschreiben 
 
 ## 🔭 Ich arbeite grade an
-- Nichts geplannt
+- [MBCord](https://github.com/SandwichFox/MBCord)
 
 ## 🌱 Ich lerne gerade
 
