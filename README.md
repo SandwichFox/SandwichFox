@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-Hey, ich bin [SandwichFox](https://sandwichfox.me/) 👋
+Hey, ich bin [SandwichFox](https://sandwichfox.de/) 👋
 
 </h3>
 <h2 align="center">
@@ -14,6 +14,7 @@ Ich bin ein Wannabe Full-Stack-Entwickler 💻 und Gamer 🎮
 </h2> 
 
 Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch viel Spaß auf meiner GitHub Page ❤️
+Ich bin Teil des [Fox Networks](https://github.com/Fox-Network)
 
 
 ## 🤝 Hier könnt ihr mich kontaktieren:
@@ -21,9 +22,9 @@ Ich bin eurer Cuter Coding Fuchs aus der Nachbarschaft. Ich wünsche ich euch vi
 <p align="left">
 <a href="https://twitter.com/sandwichfoxyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandwichfoxyt" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17560144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17560144" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sandyfloofyt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandyfloofyt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SandwichFox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmnc-dhuhejwcczfuqscxyq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SandwichFox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@SandwichFox" height="30" width="40" /></a>
 <a href="https://discord.gg/ANQEs8rMTy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ANQEs8rMTy" height="30" width="40" /></a>
+<a href="mailto:sandwichfox@team.fuly.network" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/High-contrast-emblem-mail.svg" alt="mailto:sandwichfox@team.fuly.network" height="30" width="40" /></a>
 </p>
 
 - 💬 Bei Fragen/Feedback könnt ihr mich gerne anschreiben 
