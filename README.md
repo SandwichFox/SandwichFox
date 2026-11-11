@@ -12,4 +12,4 @@ Ich bin Teil des [Fox Networks](https://github.com/Fox-Network)
 
 ## GitHub Statistiken
 
-[![SandwichFox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandwichfox&show_icons=true&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SandwichFox's GitHub Stats](https://github-stats-extended.vercel.app/api?username=sandwichfox&show_icons=true&theme=cobalt&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
